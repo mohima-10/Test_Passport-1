@@ -1,0 +1,23 @@
+{
+    "app_name": "Test Passport App",
+    "app_version": "1.0.0",
+    "created_at_ms": 1739371332000,
+    "deployed_solution_id": "aaf5460f-62a6-4e03-b572-978072ad91c1",
+    "description": "abc",
+    "human_review_level": "doc_based",
+    "human_review_mode": "ON",
+    "id": "0194fa9c-415e-7498-b590-f221d5f326cd",
+    "last_run_job_id": null,
+    "last_run_status": null,
+    "last_run_timestamp_ns": null,
+    "metric_alerts": null,
+    "name": "passport test ",
+    "notification_emails": null,
+    "owner": "pramod",
+    "retention_settings": {},
+    "review_within_sec": null,
+    "state": "ACTIVE",
+    "updated_at_ms": 1739371332000,
+    "webhooks": null,
+    "workspace": "SolEng_workspace"
+}
