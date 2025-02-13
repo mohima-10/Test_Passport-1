@@ -1,0 +1,23 @@
+{
+    "appReleaseVersion": "24.44",
+    "author": "pramod",
+    "createdAtMs": "1730180241000",
+    "description": "test app",
+    "id": "05a1e004-0d17-46cd-8c16-3fb4f6926047",
+    "isCustomizable": false,
+    "linkSharingMode": "OFF",
+    "metadata": "{\"authors\": [\"pramod\"], \"icon\": \"icon.png\", \"samples\": \"\", \"results\": \"\", \"schema\": \"schema.json\", \"is_advanced\": true, \"billing_model\": \"default\"}",
+    "name": "Test passport ",
+    "owner": "Instabase",
+    "sharedAccounts": [
+        "ib-internal"
+    ],
+    "solutionType": "EXTRACTION",
+    "solution_path": "system/global/fs/Instabase Drive/Applications/Deployed/All/05a1e004-0d17-46cd-8c16-3fb4f6926047",
+    "state": "ACTIVE",
+    "summary": "advance app test ",
+    "updateMode": "UPDATE_WHEN_EXPIRED",
+    "updatedAtMs": "1730180344000",
+    "version": "0.0.1",
+    "visibility": "PRIVATE"
+}
